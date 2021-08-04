@@ -1,0 +1,1 @@
+# Bootstrap-Responsive-Pricing-Table-Snippet
